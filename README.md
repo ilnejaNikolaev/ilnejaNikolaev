@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-<ing SPC="https://github.com/ilnejaNikolaev/ilnejaNikolaev/blob/main/tenor.gif">
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="400" height="300" alt="Cool Coding Cat">
