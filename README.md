@@ -8,5 +8,4 @@
 - ⚡ Факт: сейчас работаю на заводе
 
 ### 🛠 Изучаемые технологии:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourname&layout=compact)
 <img src="https://github.com/ilnejaNikolaev/ilnejaNikolaev/blob/main/tenor.gif" width="400" height="300" alt="Cool Coding Cat">
